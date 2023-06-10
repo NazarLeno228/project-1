@@ -7,16 +7,13 @@
 }
 
 .nav-link{
-    color: #FFFFFF;
-
+    margin: 55px;
+    color: wheat;
     font-family: 'Inter';
 font-style: normal;
 font-weight: 200;
 font-size: 24px;
 line-height: 29px;
-
-    padding-top: 32px;
-    padding-bottom: 32px;
 }
 
 .nav-item:not(:first-child),
@@ -24,7 +21,8 @@ line-height: 29px;
     margin-left: 50px;
 }
 
-h1{
+.h1{
+    margin-left: 146px;
    width: 473px; font-family: 'Inter';
 font-style: normal;
 font-weight: 200;
@@ -44,7 +42,7 @@ background-repeat: no-repeat;
 }
 
 .p1{
-   
+   margin-left: 160px;
     color: 
     #FFFFFF;
     font-family: 'Inter';
@@ -62,7 +60,7 @@ top: 347px;
 
 /* button */
 .shop{
-
+margin-left: 160px;
 padding: 50px;
 
     display: flex;
@@ -96,12 +94,13 @@ padding: 50px;
 
 }
 .buttonh3{
+    
   padding: 30px;
 color:  #FFFFFF;
 }
 
 .Cockie{
-    
+   margin-left: 160px;
     display: inline-block;
     display: inline-block;
     border: solid red 2px;
@@ -112,6 +111,7 @@ background-color: #272727;
 }
 
 .Crushed{
+   margin-left: 80px;
     display: inline-block;
     border: solid red 2px;
     width: 310px;
@@ -119,9 +119,70 @@ height: 225px;
 background-color: #272727;
 }
 .ple{
+    margin-left: 80px;
     display: inline-block;
     border: solid red 2px;
     width: 310px;
 height: 225px;
 background-color: #EBAD51;
+}
+/* hero */
+.hero{
+    height: 700px;
+    width: 1440px;
+    background-color: #202023; 
+}
+
+.h2{
+    
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+
+.Bread{
+    
+    margin-left: 275px;
+    background-image: url(images/bread-mart-bread-with-no-background-1558851\ 1b1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: solid 1px green;
+    width: 328px;
+height: 229px;
+left: 275px;
+top: 1139px;
+}
+.bbread{
+    
+margin-left: 275px;
+width: 160px;
+height: 41px;
+left: 355px;
+top: 1377px;
+
+background: #B47B48;
+border-radius: 17px;
+}
+.pbread{
+    font-family: 'Inter';
+    font-style: normal;
+    
+    font-weight: 800;
+    font-size: 25.92px;
+    line-height: 31px;
+    
+    color: #FFFFFF;
+    
+    
+    
+}
+
+.BAKERY{
+  background-color: black;
+  width: 1440px;
+  height: 580px;
 }
