@@ -110,6 +110,10 @@ background-color: #272727;
 
 }
 
+.ulcoockie{
+display: flex;
+}
+
 .Crushed{
    margin-left: 80px;
     display: inline-block;
@@ -144,45 +148,4 @@ line-height: 77px;
 color: #FFFFFF;
 }
 
-.Bread{
-    
-    margin-left: 275px;
-    background-image: url(images/bread-mart-bread-with-no-background-1558851\ 1b1.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    border: solid 1px green;
-    width: 328px;
-height: 229px;
-left: 275px;
-top: 1139px;
-}
-.bbread{
-    
-margin-left: 275px;
-width: 160px;
-height: 41px;
-left: 355px;
-top: 1377px;
 
-background: #B47B48;
-border-radius: 17px;
-}
-.pbread{
-    font-family: 'Inter';
-    font-style: normal;
-    
-    font-weight: 800;
-    font-size: 25.92px;
-    line-height: 31px;
-    
-    color: #FFFFFF;
-    
-    
-    
-}
-
-.BAKERY{
-  background-color: black;
-  width: 1440px;
-  height: 580px;
-}
