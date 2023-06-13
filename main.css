@@ -108,11 +108,9 @@ color:  #FFFFFF;
 height: 225px;
 background-color: #272727;
 
+
 }
 
-.ulcoockie{
-display: flex;
-}
 
 .Crushed{
    margin-left: 80px;
@@ -129,6 +127,7 @@ background-color: #272727;
     width: 310px;
 height: 225px;
 background-color: #EBAD51;
+
 }
 /* hero */
 .hero{
@@ -148,4 +147,15 @@ line-height: 77px;
 color: #FFFFFF;
 }
 
+.ulcoockie{
+display: flex;
+justify-content: space-between;
+}
+.clist{
+    
+    display: flex;
+   background-color:  #272727;
+   width: 310px;
+  
+}
 
